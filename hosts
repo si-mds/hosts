@@ -16,6 +16,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # sites with known trojans, phishing, or other malware
+
+0.0.0.0 web.whatsapp.com
+0.0.0.0 05tz2e9.com
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 05tz2e9.com
 0.0.0.0 1-directshipmtdhlsexpress-order.help
@@ -1776,3 +1779,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 ztriskl.divisionfair.homes
 0.0.0.0 zzkwg.comfortykive.xyz
 0.0.0.0 beonlineboo.com
+
