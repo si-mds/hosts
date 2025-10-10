@@ -1,4 +1,4 @@
-# Version 20241204
+# Version 20251010
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -17,6 +17,8 @@ ff02::3 ip6-allhosts
 
 # sites with known trojans, phishing, or other malware
 
+0.0.0.0 www.whatsapp.net
+0.0.0.0 www.whatsapp.com
 0.0.0.0 web.whatsapp.com
 0.0.0.0 api.whatsapp.com
 0.0.0.0 crashlogs.whatsapp.net
