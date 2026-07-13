@@ -1,4 +1,4 @@
-# Version 20260713
+# Version 20260714
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -122,8 +122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fastmail.com
 0.0.0.0 app.fastmail.com
 
-
-# sites with known trojans, phishing, or other malware
+# sites with known trojans, phishing, or other malware 
 0.0.0.0 apps.microsoft.com
 0.0.0.0 get.microsoft.com
 0.0.0.0 nigdynamic.com
@@ -1888,7 +1887,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ztriskl.divisionfair.homes
 0.0.0.0 zzkwg.comfortykive.xyz
 0.0.0.0 beonlineboo.com
-
 
 
 
