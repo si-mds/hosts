@@ -15,7 +15,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# sites with known trojans, phishing, or other malware
+# sites with known trojans, phishing, or other malware 
 0.0.0.0 apps.microsoft.com
 0.0.0.0 get.microsoft.com
 0.0.0.0 nigdynamic.com
