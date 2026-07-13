@@ -15,7 +15,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# ---------- MICROSOFT PESSOAL ----------
+# ---------- MICROSOFT PESSOAL ---------
 0.0.0.0 outlook.live.com
 0.0.0.0 onedrive.live.com
 0.0.0.0 account.live.com
