@@ -1,4 +1,4 @@
-# Version 20260714
+# Version 20260731
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -26,15 +26,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hotmail.com.br
 0.0.0.0 live.com.br
 0.0.0.0 www.live.com.br
- 
-# ---------- GOOGLE / GMAIL ----------
-0.0.0.0 gmail.com
-0.0.0.0 www.gmail.com
-0.0.0.0 mail.google.com
-0.0.0.0 inbox.google.com
-0.0.0.0 googlemail.com
-0.0.0.0 www.googlemail.com
- 
+  
 # ---------- YAHOO / AOL ----------
 0.0.0.0 mail.yahoo.com
 0.0.0.0 br.mail.yahoo.com
